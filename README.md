@@ -1,4 +1,4 @@
-### Welcome!
+!(Cartoon Banner.png)
 
 This page contains some of my favorite projects. 
 
